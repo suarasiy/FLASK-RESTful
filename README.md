@@ -1,2 +1,2 @@
 # restful
-Flask restful
+Learning REST APIs with Flask and Python.
